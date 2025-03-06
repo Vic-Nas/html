@@ -5,4 +5,7 @@ This repo is just for temporary HTML pages. Quick tests, nothing permanent. Used
 ## 🌐 Current Display
 Currently displaying [POOphonia Commands Guide](https://vic-nas.github.io/html/)
 
+## ⏳ Temporary Solution
+This is a temporary solution until the dedicated repository becomes public.
+
 ⚡ Don't expect anything to last!
